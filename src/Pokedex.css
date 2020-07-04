@@ -1,0 +1,16 @@
+.Pokedex {
+  display: flex;
+  padding: 0;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.exp{
+  font-size: 20px;
+  font-weight: bold;
+}
+.pokedex-winner{
+  color: rgb(18, 216, 150);
+}
+.pokedex-loser{
+  color: rgb(231, 74, 53);
+}
